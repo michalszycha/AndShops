@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewApp2</string>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="lightBlue">#30ABD3</color>
+    <string name="spinner_text">Wybierz obiekt!</string>
+</resources>
